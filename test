@@ -1,4 +1,4 @@
-package testgomod
+package github.com/azhaochen/testgomod
 
 import "github.com/xdg/stringprep"
 import "fmt"
